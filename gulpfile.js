@@ -25,7 +25,8 @@ ${pkg.homepage}`;
 
 var jQueryPluginWrap = [`;(function($){
     // just a jQuery wrapper for the vanilla version of this component
-    $.fn.tagify = function(settings = {}){
+    $.fn.tagify = function(settings){
+        settings = settings || {};
         return this.each(function() {
             var $input = $(this),
                 tagify;
