@@ -123,7 +123,7 @@ var tagify = new Tagify(...)
 * Has built-in CSS loader, if needed (Ex. <em>AJAX</em> whitelist pulling)
 * Tags can be trimmed via `hellip` by giving `max-width` to the `tag` element in your `CSS`
 * Easily change direction to RTL (via the SCSS file)
-* <del>Internet Explorer - A polyfill script should be used: `tagify.polyfills.min.js` (in `/dist`)</del> ***(IE support has been dropped)***
+* Internet Explorer - A polyfill script should be used: `tagify.polyfills.min.js` (in `/dist`) ***([this fork](https://github.com/krzyko/tagify) has a low-effort and low-priority IE11 support which will be maintained for a while)***
 * Many useful custom [events](#events)
 * Original input/textarea element values kept in sync with Tagify
 

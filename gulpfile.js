@@ -20,6 +20,7 @@ var rollupCache = {};
 
 var banner = `Tagify (v ${process.env.npm_package_version}) - tags input component
 By ${pkg.author.name}
+IE Support by ${pkg.contributors[0].name}
 Don't sell this code. (c)
 ${pkg.homepage}`;
 

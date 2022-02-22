@@ -37,6 +37,12 @@
         "name": "Yair Even-Or",
         "email": "vsync.design@gmail.com"
     },
+    "contributors": [
+        {
+            "name": "Krzysztof Kosz",
+            "email": "krzyko@gmail.com"
+        }
+    ],
     "main": "./dist/tagify.min.js",
     "repository": {
         "type": "git",
