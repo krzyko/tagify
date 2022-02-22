@@ -1,7 +1,7 @@
 {
-    "name": "@yaireo/tagify",
+    "name": "@krzyko/tagify",
     "version": "4.9.8",
-    "homepage": "https://github.com/yairEO/tagify",
+    "homepage": "https://github.com/krzyko/tagify",
     "description": "lightweight, efficient Tags input component in Vanilla JS / React / Angular [super customizable, tiny size & top performance]",
     "keywords": [
         "tags",
@@ -46,10 +46,10 @@
     "main": "./dist/tagify.min.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yairEO/tagify.git"
+        "url": "git+https://github.com/krzyko/tagify.git"
     },
     "bugs": {
-        "url": "https://github.com/yaireo/tagify/issues"
+        "url": "https://github.com/krzyko/tagify/issues"
     },
     "files": [
         "/dist",
